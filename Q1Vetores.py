@@ -14,11 +14,7 @@ i = 0
 while i < 7:
     if i % 2 == 0:
         sumPar += vetor[i]
-    i += 1
-
-i = 0
-while i < 7:
-    if i % 2 != 0:
+    else:
         sumImp += vetor[i]
     i += 1
 
