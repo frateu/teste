@@ -8,7 +8,7 @@ while i < 7:
     vetor.append(int(input("Insira o numero na posição " + str(i) + " do vetor: ")))
     i += 1
 
-print("\n\nO vetor ficou organizado da seguinte forma: " + str(vetor))
+print("\n\nO vetor ficou organizado da seguinte forma: flsikjd~sikghsdloighsfolighfi" + str(vetor))
 
 i = 0
 while i < 7:
