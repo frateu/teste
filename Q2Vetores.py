@@ -5,7 +5,7 @@ sumImp = 0
 
 while i < 7:
 
-    vetor.append(int(input("Insira o numero de posição " + str(i) + ": ")))
+    vetor.append(int(input("Insira o numero na posição " + str(i) + " do vetor: ")))
     i += 1
 
 print("\n\nO vetor ficou organizado da seguinte forma: " + str(vetor))
